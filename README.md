@@ -16,6 +16,6 @@ The goal of this project is to keep simplicity and usability in mind to allow al
 Feel free to contact anyone on our team if you have any questions or would like to learn more.
 
 ## The Team:
-#### [Jonathan Rivera](http://jrivera-sps-summer21.appspot.com/ "Jonathan's Portfolio")
-#### [Julio Valerio](http://jvalerio-sps-summer21.appspot.com/ "Julio's Portfolio")
+#### [Jonathan Rivera](http://thejonathanrivera.com "Jonathan's Portfolio")
+#### [Julio Valerio](http://juliovalerio.com "Julio's Portfolio")
 #### Jonathan Tan (Google PA!)
