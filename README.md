@@ -11,7 +11,7 @@ The goal of this project is to keep simplicity and usability in mind to allow al
 ## Notes
  * This was my first project which involved working the full stack! I designed the frontend and backend functions, as well as used proper CSS to make formatting as neat as possible.
  * All the data that the project uses comes from [NyTimes' Covid 19 Data Repository](https://github.com/nytimes/covid-19-data) which is updated every day.
- * I have since maintained and added on to the project alone. To view the original project, please view the Google App Engine version.
+ * **I have since maintained and added on to the project alone. To view the original project, please view the Google App Engine version.**
 
 Feel free to contact anyone on our team if you have any questions or would like to learn more.
 
