@@ -6,7 +6,7 @@ Made during the Summer of 2021 for Google's Software Product Sprint, this projec
 
 The goal of this project is to keep simplicity and usability in mind to allow almost anyone to use the tool and get the information they need served to them as quickly and easy to understand as possible.
 
-## [Project Link](http://thejonathanrivera.com/IsCovidNearMe)
+### [Project Link](http://thejonathanrivera.com/IsCovidNearMe)<br/>
 
 ## Notes
  * This was my first project which involved working the full stack! I designed the frontend and backend functions, as well as used proper CSS to make formatting as neat as possible.
